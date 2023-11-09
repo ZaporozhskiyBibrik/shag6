@@ -1,0 +1,4 @@
+print("Hello,dear teacher)
+import colorama
+print(help(colorama))
+print('\t'.join(dir(colorama)))
